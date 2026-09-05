@@ -1,0 +1,8 @@
+{
+  "product": "SAM_WORD_CLOCK",
+  "hardware": "ESP32_WROOM32",
+  "version": "2.2.9",
+  "filename": "wordclock_2.2.9.bin",
+  "size": 0,
+  "sha256": ""
+}
