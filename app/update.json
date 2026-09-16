@@ -1,0 +1,7 @@
+{
+  "versionName": "1.6.8",
+  "versionCode": 3,
+  "apkUrl": "https://raw.githubusercontent.com/sam7flash/wcl_fota/main/app/WordClock.apk",
+  "sha256": "PUT_SHA256_HERE",
+  "notes": "App update system added."
+}
