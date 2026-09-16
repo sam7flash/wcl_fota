@@ -1,7 +1,7 @@
 {
   "versionName": "1.6.8",
   "versionCode": 3,
-  "apkUrl": "https://raw.githubusercontent.com/sam7flash/wcl_fota/main/app/WordClock.apk",
+  "apkUrl": "https://github.com/sam7flash/wcl_fota/releases/download/app-v1.6.8/WordClock.apk",
   "sha256": "32dc7f01dc09c73699aef7877b510943a7fb0d074d281a08024a89f1feffa55c",
   "notes": "App update system added."
 }
