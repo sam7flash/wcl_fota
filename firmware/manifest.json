@@ -1,9 +1,9 @@
 {
   "product": "SAM_WORD_CLOCK",
   "hardware": "ESP32_WROOM32",
-  "version": "2.2.18",
-  "filename": "wordclock_2.2.18.bin",
-  "url": "https://sam7flash.github.io/wcl_fota/firmware/wordclock_2.2.18.bin",
-  "size": 1333168,
-  "sha256": "7119c1be9544ed2e561ed157ae022f23731a7cd153347bbdae6770dcc5381c3f"
+  "version": "2.2.20",
+  "filename": "wordclock_2.2.20.bin",
+  "url": "https://sam7flash.github.io/wcl_fota/firmware/wordclock_2.2.20.bin",
+  "size": 1340624,
+  "sha256": "ac888fe9d18efe42f798ac6925b2f1a4db6e75e6f705d50b37246139c7ba1030"
 }
